@@ -6,7 +6,7 @@
 package nurseryrhymes;
 
 /*
- * @author Devlin Wyatt
+ * @author Debrah Wyatt
  */
 
 public class AntsGoMarching {
