@@ -8,7 +8,7 @@ package nurseryrhymes;
 import java.util.Scanner;
 
 /*
- * @author Devlin Wyatt
+ * @author Debrah Wyatt
  */
 
 public class NurseryRhymes {
